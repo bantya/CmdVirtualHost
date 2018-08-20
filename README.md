@@ -1,6 +1,10 @@
 # 💻 CmdVirtualHost
 Create Apache virtual host using command line for Laragon.
 
+### ⬇ Installation:
+
+Download the raw `apvh.bat` file [from here](https://raw.githubusercontent.com/bantya/CmdVirtualHost/master/apvh.bat) and add it to the system path.
+
 ### 📝 Before use:
 Change the SSL files directory `on line 9` according to yours.
 
